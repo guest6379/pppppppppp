@@ -5,5 +5,7 @@ import (
 )
 
 func main() {
-  fmt.Println("hello github private repo")
+  for i:=1;i<=3;i++ {  
+    fmt.Println("hello github private repo")
+  }
 }
